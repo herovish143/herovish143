@@ -4,6 +4,17 @@ Senior Software Engineer with 7+ years of experience building scalable web appli
 
 ---
 
+---
+
+## Contact
+
+- GitHub: https://github.com/herovish143
+- GitHub: https://github.com/vishal-zonvoir
+- LinkedIn: https://www.linkedin.com/in/herovish143/
+- Email: vishalpal7994@gmail.com
+
+---
+
 ## About Me
 
 - Senior Web Developer with strong backend focus  
@@ -38,17 +49,6 @@ Senior Software Engineer with 7+ years of experience building scalable web appli
 - AWS
 - Linux / macOS
 
----
-
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=herovish143&show_icons=true&hide_border=true&title_color=000000&text_color=000000&icon_color=000000)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herovish143&layout=compact&hide_border=true&title_color=000000&text_color=000000)
-
-![Streak](https://streak-stats.demolab.com?user=herovish143&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000)
-
----
 
 ## What I Work On
 
@@ -78,12 +78,3 @@ Senior Software Engineer with 7+ years of experience building scalable web appli
 
 ---
 
----
-
-## Contact
-
-- GitHub: https://github.com/herovish143 
-- LinkedIn: https://www.linkedin.com/in/herovish143/
-- Email: vishalpal7994@gmail.com
-
----
